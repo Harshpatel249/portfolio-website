@@ -1,0 +1,12 @@
+.container {
+    width: 1080px;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
+
+.border-color{
+    border-color: #64FFDA;
+}
