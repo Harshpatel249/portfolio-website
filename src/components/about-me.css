@@ -1,0 +1,9 @@
+.container {
+    width: 1080px;
+    display: flex;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
