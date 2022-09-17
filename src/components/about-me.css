@@ -7,3 +7,12 @@
     width: 100%;
     display: flex;
 }
+
+.me-img {
+    width: 378px;
+    height: 378px;
+}
+
+.about-para {
+    width: 540px;
+}
