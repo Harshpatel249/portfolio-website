@@ -3,7 +3,7 @@ import './about-me.css';
 
 import MePhoto from '../assets/me_web_2.jpg';
 import Details from '../assets/details.json';
-;
+
 const AboutMe = () => (
     <div className="main justify-center mt-80" id="about-me">
         <div className="container justify-between">
@@ -24,7 +24,7 @@ const AboutMe = () => (
 
                 </ul>
             </div>
-            <img alt="Full-Stack developer" className="me-img mt-4 mb-64" src={MePhoto}></img>
+            <img alt="Full-Stack developer" className="me-img mt-4 s" src={MePhoto}></img>
         </div>
     </div>
 

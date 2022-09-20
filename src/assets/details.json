@@ -7,5 +7,8 @@
     "aboutme4": "Following are the few technologies I have used recently: ",
     "techs":[
         "Flutter", "TypeScript", "ReactJS", "NodeJS", "Gatsby", "Tailwind CSS"
+    ],
+    "workTitles":[
+        "Quicko", "Ahmedabad University"
     ]
 }
