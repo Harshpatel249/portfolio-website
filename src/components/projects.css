@@ -1,0 +1,29 @@
+.container {
+    width: 1080px;
+    display: flex;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
+
+
+.sect {
+    width: 700px;
+}
+
+.project-box {
+    height: 300px;
+    width: 344px;
+    border-radius: 5px;
+    background-color: #112240;
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+
+.tech {
+    border-radius: 5px;
+    background-color: #233554;
+    padding: 4px;
+}

@@ -1,0 +1,24 @@
+.container {
+    width: 1080px;
+    display: flex;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
+
+.sect {
+    width: 500px;
+}
+
+.divider {
+    width: 2px;
+    height: 350px;
+    border-radius: 10;
+}
+
+.logo {
+    width: 222px;
+    height: 62.6px;
+}

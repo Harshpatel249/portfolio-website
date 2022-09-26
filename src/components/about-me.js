@@ -17,14 +17,14 @@ const AboutMe = () => (
                     {
                         Details.techs.map((tech, ind) => {
                             return (
-                                <li className="font['Poppins'] text-custom-slate-900 mt-2 text-base font-normal w-64">{tech}</li>
+                                <li className="font['Poppins'] text-custom-slate-600 mt-2 text-base font-normal w-64">{tech}</li>
                             );
                         })
                     }
 
                 </ul>
             </div>
-            <img alt="Full-Stack developer" className="me-img mt-4 s" src={MePhoto}></img>
+            <img alt="Full-Stack developer" className="me-img mt-4" src={MePhoto}></img>
         </div>
     </div>
 
