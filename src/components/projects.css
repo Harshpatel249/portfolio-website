@@ -22,6 +22,14 @@
     margin-bottom: 16px;
 }
 
+.project-box-m {
+    height: 300px;
+    width: 90%;
+    border-radius: 5px;
+    background-color: #112240;
+    margin-bottom: 16px;
+}
+
 .tech {
     border-radius: 5px;
     background-color: #233554;

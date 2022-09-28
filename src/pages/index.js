@@ -6,6 +6,8 @@ import AboutMe from "../components/about-me";
 import Work from "../components/work";
 import Education from "../components/education";
 import Projects from "../components/projects";
+import GetInTouch from "../components/get-in-touch";
+import Footer from "../components/footer";
 
 const IndexPage = () => (
   <Layout>
@@ -14,6 +16,8 @@ const IndexPage = () => (
     <Work/>
     <Education/>
     <Projects/>
+    <GetInTouch/>
+    <Footer/>
   </Layout>
 )
 

@@ -16,7 +16,7 @@ const Header = () => (
       <button className="mr-10" onClick={scrollToProjects}>
         <p className="font-['Poppins] text-white-blue text-base font-normal">Projects</p>
       </button>
-      <button className="mr-10">
+      <button className="mr-10" onClick={scrollToGetInTouch}>
         <p className="font-['Poppins] text-white-blue text-base font-normal">Get in touch</p>
       </button>
     </div>
@@ -41,6 +41,11 @@ const scrollToEducation = () => {
 
 const scrollToProjects = () => {
   const section = document.querySelector('#projects');
+  section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+};
+
+const scrollToGetInTouch = () => {
+  const section = document.querySelector('#get-in-touch');
   section.scrollIntoView({ behavior: 'smooth', block: 'start' });
 };
 

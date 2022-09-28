@@ -14,11 +14,20 @@
 
 .divider {
     width: 2px;
-    height: 350px;
+    height: 250px;
     border-radius: 10;
 }
 
 .logo {
     width: 222px;
     height: 62.6px;
+}
+
+.logo-m {
+    width: 111px;
+    height: 31px;
+}
+
+.sect-m {
+    width: 45%;
 }
