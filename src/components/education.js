@@ -18,7 +18,7 @@ const Education = () => {
                         <p className="font['Poppins'] text-custom-slate-600 mt-2 text-xs font-normal mr-8 text-right">Masters in Applied Computer Science (MACS)</p>
                         <img alt="Dalhousie University" className="logo-m mt-4 mr-8" src={Dallogo}></img>
                     </div>
-                    <div className="divider bg-red-50">
+                    <div className="divider-m bg-red-50">
 
                     </div>
                     <div className="flex flex-col justify-end sect-m">
