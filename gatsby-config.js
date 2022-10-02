@@ -10,6 +10,30 @@ module.exports = {
     `gatsby-plugin-image`,
     'gatsby-plugin-postcss',
     {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "G-NMZY0JF5MZ",
+  
+        // Include GTM in development.
+        //
+        // Defaults to false meaning GTM will only be loaded in production.
+        includeInDevelopment: false,
+  
+        // datalayer to be set before GTM is loaded
+        // should be an object or a function that is executed in the browser
+        //
+        
+  
+        // Name of the event that is triggered
+        // on every Gatsby route change.
+        //
+       
+        // Defaults to false
+        enableWebVitalsTracking: true,
+        
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
