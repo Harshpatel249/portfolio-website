@@ -48,73 +48,103 @@
         "An interactive website where an user can make and maintain different lists like watched list, currently watching and wishlist."
     ],
     "projects": [
-        [
-            "Corvito",
-            "An interactive website where an user can make and maintain different lists like watched list, currently watching and wishlist.",
-            [
+        {
+            "name": "TuneHub: IMDb for music",
+            "description": "An interactive website with many features like reviews, trivia, watchlist and integration with Spotify Developer apis.",
+            "techstack": [
+                "React JS",
+                "ChakraUI",
+                "Node JS",
+                "MongoDB",
+                "Spotify Developer apis",
+                "Netlify",
+                "Render"
+            ],
+            "github": "https://github.com/Harshpatel249/web-project",
+            "deploymentlink": "https://tune-hub.netlify.app/"
+        },
+        {
+            "name": "Commune: Communities and Events",
+            "description": "An interactive website with many features like communities, events and users connected using interest tags.",
+            "techstack": [
+                "React JS",
+                "ChakraUI",
+                "JAVA",
+                "SpringBoot",
+                "MySQL",
+                "Netlify",
+                "Render"
+            ],
+            "github": "https://github.com/Harshpatel249/asdc-project",
+            "deploymentlink": "https://commune-dev-csci5308-group06.netlify.app/"
+        },
+        {
+            "name": "Corvito",
+            "description": "An interactive website where an user can make and maintain different lists like watched list, currently watching and wishlist.",
+            "techstack": [
                 "React JS",
                 "HCI"
             ],
-            "https://github.com/Harshpatel249/CorVito"
-        ],
-        [
-            "Echos: ASL tutor",
-            "An app like Duolingo which teaches the user Sign Language(ASL), it also includes a Sign-Language to Text conversion feature.",
-            [
+            "github": "https://github.com/Harshpatel249/CorVito"
+        },
+        {
+            "name": "Echos: ASL tutor",
+            "description": "An app like Duolingo which teaches the user Sign Language(ASL), it also includes a Sign-Language to Text conversion feature.",
+            "techstack": [
                 "Flutter",
                 "Firebase"
             ],
-            "https://github.com/Harshpatel249/Echos"
-        ],
-        [
-            "Magnar: 2D Platformer Game",
-            "A modern version of the Mario Bros where players can create their own levels by editing an image.",
-            [
+            "github": "https://github.com/Harshpatel249/Echos"
+        },
+        {
+            "name": "Magnar: 2D Platformer Game",
+            "description": "A modern version of the Mario Bros where players can create their own levels by editing an image.",
+            "techstack": [
                 "Java",
                 "Image processing"
             ],
-            "https://github.com/Harshpatel249/magnar2d"
-        ],
-        [
-            "Movie Recommendation System",
-            "A movie recommendation system using Machine Learning concepts like Cosine Similarity and Gaussian Mixture Model.",
-            [
+            "github": "https://github.com/Harshpatel249/magnar2d"
+        },
+        {
+            "name": "Movie Recommendation System",
+            "description": "A movie recommendation system using Machine Learning concepts like Cosine Similarity and Gaussian Mixture Model.",
+            "techstack": [
                 "Python",
                 "Machine Learning",
                 "Cosine Similarity",
                 "Gaussian Mixture Model"
             ],
-            "https://github.com/Harshpatel249/CSE523-Machine-Learning-Outliers"
-        ],
-        [
-            "This very portfolio",
-            "A portfolio website that I developed when I got too bored during summer break.",
-            [
+            "github": "https://github.com/Harshpatel249/CSE523-Machine-Learning-Outliers"
+        },
+        {
+            "name": "This very portfolio",
+            "description": "A portfolio website that I developed when I got too bored during summer break.",
+            "techstack":  [
                 "React JS",
                 "Gatsby",
                 "Tailwind CSS"
             ],
-            "https://github.com/Harshpatel249/portfolio-website"
-        ],
-        [
-            "MERN template",
-            "A MERN stack template/sample project with scalable folder structures and state management.",
-            [
+            "github": "https://github.com/Harshpatel249/portfolio-website"
+        },
+        {
+            "name":  "MERN template",
+            "description": "A MERN stack template/sample project with scalable folder structures and state management.",
+            "techstack":  [
                 "NoSQL",
                 "Express JS",
                 "React JS",
                 "Node JS"
             ],
-            "https://github.com/Harshpatel249/MERNtemplate"
-        ],
-        [
-            "Minesweeper",
-            "A first semester project developed only using C with multiple difficulty levels.",
-            [
+            "github": "https://github.com/Harshpatel249/MERNtemplate"
+        },
+        {
+            "name":  "Minesweeper",
+            "description": "A first semester project developed only using C with multiple difficulty levels.",
+            "techstack":  [
                 "C"
             ],
-            "https://github.com/Harshpatel249/Minesweeper"
-        ]
+            "github": "https://github.com/Harshpatel249/Minesweeper"
+        }
     ],
     "jobpref": "I am currently looking for part-time tech job opportunities. My inbox is always open for any exciting ideas or projects."
 }

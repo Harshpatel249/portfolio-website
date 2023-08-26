@@ -30,6 +30,14 @@
     margin-bottom: 16px;
 }
 
+.project-title{
+    width: 250px;
+}
+
+.project-title-m{
+    width: 69%;
+}
+
 .tech {
     border-radius: 5px;
     background-color: #233554;
