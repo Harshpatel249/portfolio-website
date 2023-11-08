@@ -6,12 +6,16 @@
     "aboutme3": "Fast forward to today, I have been a part of an amazing fintech startup Quicko as a full stack developer intern and have completed several other internships.",
     "aboutme4": "Following are the few technologies I have used recently: ",
     "techs": [
-        "Flutter",
-        "TypeScript",
         "ReactJS",
         "NodeJS",
-        "Gatsby",
-        "Tailwind CSS"
+        "Angular",
+        "SpringBoot",
+        "ExpressJS",
+        "Chakra UI",
+        "Tailwind CSS",
+        "Flutter",
+        "AWS",
+        "GCP"
     ],
     "workTitles": [
         "Quicko",
@@ -119,7 +123,7 @@
         {
             "name": "This very portfolio",
             "description": "A portfolio website that I developed when I got too bored during summer break.",
-            "techstack":  [
+            "techstack": [
                 "React JS",
                 "Gatsby",
                 "Tailwind CSS"
@@ -127,9 +131,9 @@
             "github": "https://github.com/Harshpatel249/portfolio-website"
         },
         {
-            "name":  "MERN template",
+            "name": "MERN template",
             "description": "A MERN stack template/sample project with scalable folder structures and state management.",
-            "techstack":  [
+            "techstack": [
                 "NoSQL",
                 "Express JS",
                 "React JS",
@@ -138,9 +142,9 @@
             "github": "https://github.com/Harshpatel249/MERNtemplate"
         },
         {
-            "name":  "Minesweeper",
+            "name": "Minesweeper",
             "description": "A first semester project developed only using C with multiple difficulty levels.",
-            "techstack":  [
+            "techstack": [
                 "C"
             ],
             "github": "https://github.com/Harshpatel249/Minesweeper"
