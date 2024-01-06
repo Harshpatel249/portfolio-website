@@ -53,6 +53,39 @@
     ],
     "projects": [
         {
+            "name": "Applify: Manage Job Applications",
+            "description": "A minimalistic job application tracker app built using multiple technologies and IaC using AWS Cloudformation.",
+            "techstack": [
+                "React JS",
+                "Angular",
+                "ChakraUI",
+                "Tailwind CSS",
+                "Node JS",
+                "MongoDB",
+                "AWS",
+                "Netlify",
+                "Render"
+            ],
+            "github": "https://github.com/Harshpatel249/applify",
+            "deploymentlink": "https://app-lify.netlify.app/"
+        },
+        {
+            "name": "Foodvaganza: Eat Local",
+            "description": "An interactive website with fully serverless backend build using AWS and GCP.",
+            "techstack": [
+                "React JS",
+                "ChakraUI",
+                "Node JS",
+                "AWS",
+                "GCP",
+                "Lambda",
+                "DynamoDB",
+                "Firestore"
+            ],
+            "github": "https://github.com/dev-patel2104/ServerlessSDP8",
+            "deploymentlink": "https://main--serverless-sdp8-production.netlify.app/"
+        },
+        {
             "name": "TuneHub: IMDb for music",
             "description": "An interactive website with many features like reviews, trivia, watchlist and integration with Spotify Developer apis.",
             "techstack": [
