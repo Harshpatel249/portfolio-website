@@ -1,9 +1,9 @@
 {
     "name": "Harsh Patel.",
-    "aboutp1": "I am a full-stack developer with an inclination for machine learning. Currently, I am pursuing my Masters of Applied Computer Science at Dalhousie University, Canada.",
-    "aboutme1": "Hey! My name is Harsh Patel and I like developing cool video games and applications.",
+    "aboutp1": "I am a full-stack developer with an inclination for machine learning. Currently, I am a Summer'24 full stack developer co-op at Shift-Redbrick.",
+    "aboutme1": "Hey! My name is Harsh Patel and I like developing products and play video games for fun!",
     "aboutme2": "My fascination with ethical hackers during high school sparked my early interest in programming. Soon after, I fell in love with Computer Science as I dived deeper into my bachelor's degree.",
-    "aboutme3": "Fast forward to today, I have been a part of an amazing fintech startup Quicko as a full stack developer intern and have completed several other internships.",
+    "aboutme3": "Fast forward to today, I have been a part of an amazing fintech startup: Quicko as a full stack developer intern, pursuing my Master's degree and a full stack developer co-op at Shift-Redbrick.",
     "aboutme4": "Following are the few technologies I have used recently: ",
     "techs": [
         "ReactJS",
@@ -18,18 +18,24 @@
         "GCP"
     ],
     "workTitles": [
+        "Shift - Redbrick",
         "Quicko",
-        "Ahmedabad University"
+        "Ahmedabad University"        
     ],
     "posts": [
+        "Full Stack Developer Co-op",
         "Full Stack Developer",
         "RA/TA and flutter developer"
     ],
     "timeline": [
+        "May 2024 - Present",
         "Dec 2021 - Jun 2022",
         "Aug 2021 - December 2021"
     ],
     "workpointers": [
+        [
+            "Upcoming summer coop!"
+        ],
         [
             "Building and developing PWA for Quicko's product: MEET",
             "Using flutter for front-end development and NodeJS for backend and RESTful apis",
@@ -43,6 +49,7 @@
         ]
     ],
     "link": [
+        "https://www.rdbrck.com/shift",
         "https://quicko.com/income-tax/meet",
         ""
     ],
@@ -183,5 +190,5 @@
             "github": "https://github.com/Harshpatel249/Minesweeper"
         }
     ],
-    "jobpref": "I am currently looking for summer 2024 full-time/co-op opportunities in Canada. My inbox is always open for any exciting ideas or projects."
+    "jobpref": "I am not actively looking for any opportunities righ now. However, my inbox is always open for any exciting ideas or projects."
 }
