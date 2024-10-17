@@ -1,17 +1,17 @@
 {
     "name": "Harsh Patel.",
-    "aboutp1": "I am a full-stack developer with an inclination for machine learning. Currently, I am a Summer'24 full stack developer co-op at Shift-Redbrick.",
+    "aboutp1": "I am a full-stack developer with an inclination for machine learning. Currently, I am looking for exciting full-time opportunities.",
     "aboutme1": "Hey! My name is Harsh Patel and I like developing products and play video games for fun!",
-    "aboutme2": "My fascination with ethical hackers during high school sparked my early interest in programming. Soon after, I fell in love with Computer Science as I dived deeper into my bachelor's degree.",
-    "aboutme3": "Fast forward to today, I have been a part of an amazing fintech startup: Quicko as a full stack developer intern, pursuing my Master's degree and a full stack developer co-op at Shift-Redbrick.",
+    "aboutme2": "My fascination with ethical hackers during high school sparked my early interest in programming. Soon after, I fell in love with Computer Science and product building.",
+    "aboutme3": "Fast forward to today, I have completed my Master's degree and have been a part of building amazing products: with Quicko as a full stack developer intern & full stack developer co-op at Shift-Redbrick.",
     "aboutme4": "Following are the few technologies I have used recently: ",
     "techs": [
         "ReactJS",
-        "NodeJS",
-        "Angular",
-        "SpringBoot",
+        "NextJS",
+        "VueJS",
+        "Storybook",
         "ExpressJS",
-        "Chakra UI",
+        "Python",
         "Tailwind CSS",
         "Flutter",
         "AWS",
@@ -28,13 +28,16 @@
         "RA/TA and flutter developer"
     ],
     "timeline": [
-        "May 2024 - Present",
+        "May 2024 - December 2024",
         "Dec 2021 - Jun 2022",
         "Aug 2021 - December 2021"
     ],
     "workpointers": [
         [
-            "Upcoming summer coop!"
+            "Developed and maintained Landing Pages for different apps funneling 1000s of user everyday",
+            "Developed an integrated web app for browsing manuals for various products",
+            "Developed an integrated web app for downloading templates for various files like Word, Excel, PowerPoint, etc",
+            "Enhanced an existing python based web scraping product"
         ],
         [
             "Building and developing PWA for Quicko's product: MEET",
@@ -190,5 +193,5 @@
             "github": "https://github.com/Harshpatel249/Minesweeper"
         }
     ],
-    "jobpref": "I am not actively looking for any opportunities right now. However, my inbox is always open for any exciting ideas or projects."
+    "jobpref": "I am actively looking for exciting full-time opportunities. My inbox is always open for any exciting ideas or products."
 }

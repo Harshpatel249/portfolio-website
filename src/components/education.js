@@ -14,7 +14,7 @@ const Education = () => {
                 <h1 className="font['Poppins'] text-custom-slate-200 text-xl font-medium">My academic career</h1>
                 <div className="flex flex-row mt-8 justify-center">
                     <div className="flex flex-col items-end sect-m">
-                        <p className="font['Poppins'] text-custom-slate-600 mt-2 text-xs font-normal mr-8">Jan'23 - Present</p>
+                        <p className="font['Poppins'] text-custom-slate-600 mt-2 text-xs font-normal mr-8">Jan'23 - Aug'23</p>
                         <p className="font['Poppins'] text-custom-slate-600 mt-2 text-xs font-normal mr-8 text-right">Masters in Applied Computer Science (MACS)</p>
                         <img alt="Dalhousie University" className="logo-m mt-4 mr-8" src={Dallogo}></img>
                     </div>
@@ -35,7 +35,7 @@ const Education = () => {
                     <h1 className="font['Poppins'] text-custom-slate-200 text-3xl font-medium">My academic career</h1>
                     <div className="container flex flex-row mt-8">
                         <div className="sect flex flex-col items-end">
-                            <p className="font['Poppins'] text-custom-slate-600 mt-2 text-base font-normal mr-8">Jan'23 - Present</p>
+                            <p className="font['Poppins'] text-custom-slate-600 mt-2 text-base font-normal mr-8">Jan'23 - Aug'24</p>
                             <p className="font['Poppins'] text-custom-slate-600 mt-2 text-base font-normal mr-8">Masters in Applied Computer Science (MACS)</p>
                             <img alt="Dalhousie University" className="logo mt-4 mr-8" src={Dallogo}></img>
                         </div>
