@@ -2,7 +2,7 @@ import * as React from "react";
 import './about-me.css';
 import { useMediaQuery } from 'react-responsive';
 
-import MePhoto from '../assets/me_web_3.jpg';
+import MePhoto from '../assets/me_web_4.jpeg';
 import Details from '../assets/details.json';
 
 const AboutMe = () => {
