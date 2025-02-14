@@ -1,6 +1,6 @@
 {
     "name": "Harsh Patel.",
-    "aboutp1": "I am a full-stack developer with an inclination for machine learning. Currently, I am looking for exciting full-time opportunities.",
+    "aboutp1": "I am a full-stack developer with an inclination for machine learning. Currently, I am currently a full-time consultant at Psyncopate Technologies.",
     "aboutme1": "Hey! My name is Harsh Patel and I like developing products and play video games for fun!",
     "aboutme2": "My fascination with ethical hackers during high school sparked my early interest in programming. Soon after, I fell in love with Computer Science and product building.",
     "aboutme3": "Fast forward to today, I have completed my Master's degree and have been a part of building amazing products: with Quicko as a full stack developer intern & full stack developer co-op at Shift-Redbrick.",
@@ -8,7 +8,7 @@
     "techs": [
         "ReactJS",
         "NextJS",
-        "VueJS",
+        "Confluent Kafka",
         "Storybook",
         "ExpressJS",
         "Python",
@@ -18,21 +18,29 @@
         "GCP"
     ],
     "workTitles": [
+        "Psyncopate Technologies",
         "Shift - Redbrick",
         "Quicko",
         "Ahmedabad University"        
     ],
     "posts": [
+        "Associate Consulting Engineer",
         "Full Stack Developer Co-op",
         "Full Stack Developer",
         "RA/TA and flutter developer"
     ],
     "timeline": [
+        "Jan 2025 - Present",
         "May 2024 - December 2024",
         "Dec 2021 - Dec 2022",
         "Aug 2021 - December 2021"
     ],
     "workpointers": [
+        [
+            "Working on migrating legacy TIBCO applications to microservices architecture",
+            "Working with Confluent Kafka for event streaming",
+            "Working with different clients and their requirements"
+        ],
         [
             "Developed and maintained Landing Pages for different apps funneling 1000s of user everyday",
             "Developed an integrated web app for browsing manuals for various products",
@@ -52,6 +60,7 @@
         ]
     ],
     "link": [
+        "https://www.psyncopate.com/",
         "https://www.rdbrck.com/shift",
         "https://quicko.com/income-tax/meet",
         ""
@@ -193,5 +202,5 @@
             "github": "https://github.com/Harshpatel249/Minesweeper"
         }
     ],
-    "jobpref": "I am actively looking for exciting full-time opportunities. My inbox is always open for any exciting ideas or products."
+    "jobpref": "I am not looking for any opportunities. However, my inbox is always open for any exciting ideas or products."
 }
